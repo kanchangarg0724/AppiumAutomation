@@ -1,0 +1,12 @@
+<?xml version="1.0"?><DataSource xmlns="http://xmlns.oracle.com/weblogic/jdbc-data-source" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type="text/xsl" href="TestData.xslt"?>
+<TestData>
+	<TestCases ExecuteAllTestCases="Yes" suite="P1">
+		<downloadApp>Yes</downloadApp>
+		<verifyTwitterIcon>Yes</verifyTwitterIcon>
+		<verifyTwitterLogin>Yes</verifyTwitterLogin>
+		<verifyGoogleLogin>No</verifyGoogleLogin>
+		<verifyLoginSuccess>Yes</verifyLoginSuccess>
+	</TestCases>
+</TestData>
+</DataSource>

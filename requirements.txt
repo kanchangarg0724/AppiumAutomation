@@ -1,0 +1,5 @@
+#
+# You would need the following python packages 
+#
+
+Appium-Python-Client==1.0.2
