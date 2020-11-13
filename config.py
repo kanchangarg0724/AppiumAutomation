@@ -19,5 +19,5 @@ TestDataXML= "testdata.xml"
 # Other global variables
 TCResultDict = {}
 currentTestCase = None
-useremail = "tes1.auto1@gmail.com"
-userpassword = "game@twitter"
+useremail = "Enter your email"
+userpassword = "Enter your password"
