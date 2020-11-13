@@ -10,15 +10,16 @@ pip install -r requirements.txt
 ```
 
 # Installation
-3. Clone the repo
+1. Clone the repo
 
 ``` 
 git clone https://github.com/kanchangarg0724/AppiumAutomation.git
 ```
 
-4. XML file for test case input [testdata.xml](https://github.com/kanchangarg0724/AppiumAutomation/blob/main/testdata.xml)
+2. XML file for test case input [testdata.xml](https://github.com/kanchangarg0724/AppiumAutomation/blob/main/testdata.xml)
 ```
-<?xml version="1.0"?><DataSource xmlns="http://xmlns.oracle.com/weblogic/jdbc-data-source" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0"?>
+<DataSource xmlns="http://xmlns.oracle.com/weblogic/jdbc-data-source" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <?xml-stylesheet type="text/xsl" href="TestData.xslt"?>
 <TestData>
 	<TestCases ExecuteAllTestCases="Yes" suite="P1">
